@@ -19,10 +19,10 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/elastic/beats/libbeat/beat"
-	"github.com/elastic/beats/libbeat/cfgfile"
-	"github.com/elastic/beats/libbeat/logp"
-	"github.com/elastic/beats/libbeat/publisher"
+	"github.com/ashilokhvostov/beats/libbeat/beat"
+	"github.com/ashilokhvostov/beats/libbeat/cfgfile"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/publisher"
 	"github.com/mheese/go-systemd/sdjournal"
 )
 
