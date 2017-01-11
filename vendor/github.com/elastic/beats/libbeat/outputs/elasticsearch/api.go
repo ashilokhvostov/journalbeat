@@ -3,7 +3,7 @@ package elasticsearch
 import (
 	"encoding/json"
 
-	"github.com/elastic/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
 )
 
 type QueryResult struct {

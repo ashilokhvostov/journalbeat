@@ -5,9 +5,9 @@ import (
 	"expvar"
 	"sync/atomic"
 
-	"github.com/elastic/beats/libbeat/common"
-	"github.com/elastic/beats/libbeat/common/op"
-	"github.com/elastic/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/common"
+	"github.com/ashilokhvostov/beats/libbeat/common/op"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
 )
 
 // Metrics that can retrieved through the expvar web interface.

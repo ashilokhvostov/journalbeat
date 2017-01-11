@@ -1,6 +1,6 @@
 package publisher
 
-import "github.com/elastic/beats/libbeat/common/op"
+import "github.com/ashilokhvostov/beats/libbeat/common/op"
 
 // ClientOption allows API users to set additional options when publishing events.
 type ClientOption func(option Context) Context

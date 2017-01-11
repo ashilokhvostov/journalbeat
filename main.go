@@ -15,7 +15,7 @@
 package main
 
 import (
-	"github.com/elastic/beats/libbeat/beat"
+	"github.com/ashilokhvostov/beats/libbeat/beat"
 	journalbeat "github.com/ashilokhvostov/journalbeat/beat"
 )
 

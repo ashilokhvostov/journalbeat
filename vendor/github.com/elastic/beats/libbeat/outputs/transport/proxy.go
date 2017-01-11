@@ -4,7 +4,7 @@ import (
 	"net"
 	"net/url"
 
-	"github.com/elastic/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
 	"golang.org/x/net/proxy"
 )
 

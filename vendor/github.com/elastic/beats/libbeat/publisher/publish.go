@@ -7,20 +7,20 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/elastic/beats/libbeat/common"
-	"github.com/elastic/beats/libbeat/common/op"
-	"github.com/elastic/beats/libbeat/filter"
-	"github.com/elastic/beats/libbeat/logp"
-	"github.com/elastic/beats/libbeat/outputs"
+	"github.com/ashilokhvostov/beats/libbeat/common"
+	"github.com/ashilokhvostov/beats/libbeat/common/op"
+	"github.com/ashilokhvostov/beats/libbeat/filter"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/outputs"
 	"github.com/nranchev/go-libGeoIP"
 
 	// load supported output plugins
-	_ "github.com/elastic/beats/libbeat/outputs/console"
-	_ "github.com/elastic/beats/libbeat/outputs/elasticsearch"
-	_ "github.com/elastic/beats/libbeat/outputs/fileout"
-	_ "github.com/elastic/beats/libbeat/outputs/kafka"
-	_ "github.com/elastic/beats/libbeat/outputs/logstash"
-	_ "github.com/elastic/beats/libbeat/outputs/redis"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/console"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/elasticsearch"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/fileout"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/kafka"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/logstash"
+	_ "github.com/ashilokhvostov/beats/libbeat/outputs/redis"
 )
 
 // command line flags

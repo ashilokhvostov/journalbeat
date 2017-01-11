@@ -13,7 +13,7 @@ beat:
     - LS_TCP_PORT=5044
     - LS_TLS_PORT=5055
     # Setup work environment
-    - LIBBEAT_PATH=/go/src/github.com/elastic/beats/libbeat
+    - LIBBEAT_PATH=/go/src/github.com/ashilokhvostov/beats/libbeat
     # TODO: Set to true as soon as stable release is out
     - SHIELD=false
     - KAFKA_HOST=kafka
@@ -21,10 +21,10 @@ beat:
   env_file:
     - ${PWD}/build/test.env
   volumes:
-    - ${PWD}/..:/go/src/github.com/elastic/beats/
-  working_dir: /go/src/github.com/elastic/beats/libbeat
+    - ${PWD}/..:/go/src/github.com/ashilokhvostov/beats/
+  working_dir: /go/src/github.com/ashilokhvostov/beats/libbeat
   command: make
-  entrypoint: /go/src/github.com/elastic/beats/libbeat/scripts/docker-entrypoint.sh
+  entrypoint: /go/src/github.com/ashilokhvostov/beats/libbeat/scripts/docker-entrypoint.sh
 
 # This host name is fixed because of the certificate
 logstash:

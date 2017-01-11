@@ -41,14 +41,14 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/elastic/beats/libbeat/cfgfile"
-	"github.com/elastic/beats/libbeat/common"
-	"github.com/elastic/beats/libbeat/filter"
-	_ "github.com/elastic/beats/libbeat/filter/rules"
-	"github.com/elastic/beats/libbeat/logp"
-	"github.com/elastic/beats/libbeat/paths"
-	"github.com/elastic/beats/libbeat/publisher"
-	svc "github.com/elastic/beats/libbeat/service"
+	"github.com/ashilokhvostov/beats/libbeat/cfgfile"
+	"github.com/ashilokhvostov/beats/libbeat/common"
+	"github.com/ashilokhvostov/beats/libbeat/filter"
+	_ "github.com/ashilokhvostov/beats/libbeat/filter/rules"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/paths"
+	"github.com/ashilokhvostov/beats/libbeat/publisher"
+	svc "github.com/ashilokhvostov/beats/libbeat/service"
 	"github.com/satori/go.uuid"
 )
 

@@ -6,7 +6,7 @@ Card](https://goreportcard.com/badge/github.com/elastic/go-ucfg)](https://gorepo
 
 # ucfg - Universal Configuration
 
-`ucfg` is a Golang library to handle yaml and json configuration files in your Golang project. It was developed for the [libbeat framework](https://github.com/elastic/beats/tree/master/libbeat) and used by all [beats](https://github.com/elastic/beats).
+`ucfg` is a Golang library to handle yaml and json configuration files in your Golang project. It was developed for the [libbeat framework](https://github.com/ashilokhvostov/beats/tree/master/libbeat) and used by all [beats](https://github.com/ashilokhvostov/beats).
 
 
 ## API Documentation

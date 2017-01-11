@@ -34,7 +34,7 @@
 		},
 		{
 			"checksumSHA1": "wPYAhoXeUKSFWqTnRLtGjE6ASXY=",
-			"path": "github.com/elastic/beats/libbeat",
+			"path": "github.com/ashilokhvostov/beats/libbeat",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -42,7 +42,7 @@
 		},
 		{
 			"checksumSHA1": "nYpLn0PZzwcF0PNGFL603ZnY77k=",
-			"path": "github.com/elastic/beats/libbeat/beat",
+			"path": "github.com/ashilokhvostov/beats/libbeat/beat",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -50,7 +50,7 @@
 		},
 		{
 			"checksumSHA1": "VKTOHixhoZXMbZV/8fobheumpZg=",
-			"path": "github.com/elastic/beats/libbeat/cfgfile",
+			"path": "github.com/ashilokhvostov/beats/libbeat/cfgfile",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -58,7 +58,7 @@
 		},
 		{
 			"checksumSHA1": "0ueM+RDvFQV6RAgQ7pqy3IWsxQw=",
-			"path": "github.com/elastic/beats/libbeat/common",
+			"path": "github.com/ashilokhvostov/beats/libbeat/common",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -66,7 +66,7 @@
 		},
 		{
 			"checksumSHA1": "CGDTSl2i0mxPNln+8qLD9aEgqzI=",
-			"path": "github.com/elastic/beats/libbeat/common/op",
+			"path": "github.com/ashilokhvostov/beats/libbeat/common/op",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -74,7 +74,7 @@
 		},
 		{
 			"checksumSHA1": "8uV7x+/aVAM5oznO2ptIbY4L5B4=",
-			"path": "github.com/elastic/beats/libbeat/common/streambuf",
+			"path": "github.com/ashilokhvostov/beats/libbeat/common/streambuf",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -82,7 +82,7 @@
 		},
 		{
 			"checksumSHA1": "lhY3OUvMqc+MATNl4jKlvq/Lw1s=",
-			"path": "github.com/elastic/beats/libbeat/filter",
+			"path": "github.com/ashilokhvostov/beats/libbeat/filter",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -90,7 +90,7 @@
 		},
 		{
 			"checksumSHA1": "wjE78gwgurUJEBEslaFZOLCk4Hs=",
-			"path": "github.com/elastic/beats/libbeat/filter/rules",
+			"path": "github.com/ashilokhvostov/beats/libbeat/filter/rules",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -98,7 +98,7 @@
 		},
 		{
 			"checksumSHA1": "mR97NqOhZ8QeEnoFxmW/k6CM10c=",
-			"path": "github.com/elastic/beats/libbeat/logp",
+			"path": "github.com/ashilokhvostov/beats/libbeat/logp",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -106,7 +106,7 @@
 		},
 		{
 			"checksumSHA1": "OSXlt2gKv1mkS3GhPsDr19nIkV0=",
-			"path": "github.com/elastic/beats/libbeat/mock",
+			"path": "github.com/ashilokhvostov/beats/libbeat/mock",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -114,7 +114,7 @@
 		},
 		{
 			"checksumSHA1": "yQawEdb9x85SxfudACa7NbpokX8=",
-			"path": "github.com/elastic/beats/libbeat/outputs",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -122,7 +122,7 @@
 		},
 		{
 			"checksumSHA1": "OSAvuM6k9QfKHf/kg3q5Ip5bpv0=",
-			"path": "github.com/elastic/beats/libbeat/outputs/console",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/console",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -130,7 +130,7 @@
 		},
 		{
 			"checksumSHA1": "63LA0FrTh8dJQBvAfx8F3KW4qYE=",
-			"path": "github.com/elastic/beats/libbeat/outputs/elasticsearch",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/elasticsearch",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -138,7 +138,7 @@
 		},
 		{
 			"checksumSHA1": "9mse10yZX2DLVaAHD/++vfk40uo=",
-			"path": "github.com/elastic/beats/libbeat/outputs/fileout",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/fileout",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -146,7 +146,7 @@
 		},
 		{
 			"checksumSHA1": "Viq0ljA2j2MllqO5klpKXi7LboQ=",
-			"path": "github.com/elastic/beats/libbeat/outputs/kafka",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/kafka",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -154,7 +154,7 @@
 		},
 		{
 			"checksumSHA1": "1j9kyjNo4PsAQXBaIODT+pb25ls=",
-			"path": "github.com/elastic/beats/libbeat/outputs/logstash",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/logstash",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -162,7 +162,7 @@
 		},
 		{
 			"checksumSHA1": "Ce2c3BRT0ipBeQH28bAXlzHD4Pc=",
-			"path": "github.com/elastic/beats/libbeat/outputs/mode",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/mode",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -170,7 +170,7 @@
 		},
 		{
 			"checksumSHA1": "BjIh3sC4+NAax0vPQOSp5+ROJpw=",
-			"path": "github.com/elastic/beats/libbeat/outputs/mode/lb",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/mode/lb",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -178,7 +178,7 @@
 		},
 		{
 			"checksumSHA1": "xKQLrNIjUcvj+1jFCsr8wAIoESI=",
-			"path": "github.com/elastic/beats/libbeat/outputs/mode/modeutil",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/mode/modeutil",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -186,7 +186,7 @@
 		},
 		{
 			"checksumSHA1": "ffhUdfwyZ+/3OSWh1Jjq+FB9hAs=",
-			"path": "github.com/elastic/beats/libbeat/outputs/mode/single",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/mode/single",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -194,7 +194,7 @@
 		},
 		{
 			"checksumSHA1": "DLR+1eECuxkiX0vcRPCxcYtMClA=",
-			"path": "github.com/elastic/beats/libbeat/outputs/redis",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/redis",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -202,7 +202,7 @@
 		},
 		{
 			"checksumSHA1": "CR+LV2BzvJh0SEtdfwj48STMEXM=",
-			"path": "github.com/elastic/beats/libbeat/outputs/transport",
+			"path": "github.com/ashilokhvostov/beats/libbeat/outputs/transport",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -210,7 +210,7 @@
 		},
 		{
 			"checksumSHA1": "kzudY12y2R4vswS3/UKqxqJ+zGw=",
-			"path": "github.com/elastic/beats/libbeat/paths",
+			"path": "github.com/ashilokhvostov/beats/libbeat/paths",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -218,7 +218,7 @@
 		},
 		{
 			"checksumSHA1": "x5+HLEYcTH3YWT3jD/dojzwTGPI=",
-			"path": "github.com/elastic/beats/libbeat/publisher",
+			"path": "github.com/ashilokhvostov/beats/libbeat/publisher",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",
@@ -226,7 +226,7 @@
 		},
 		{
 			"checksumSHA1": "S4mHjK3Ml2O9/ZeiSPebI4sOp5g=",
-			"path": "github.com/elastic/beats/libbeat/service",
+			"path": "github.com/ashilokhvostov/beats/libbeat/service",
 			"revision": "593db38bf771abf33cae3824d64de8cd74bb4da4",
 			"revisionTime": "2016-06-30T12:23:50Z",
 			"version": "v5.0.0-alpha4",

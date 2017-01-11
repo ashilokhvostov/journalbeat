@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"unicode/utf8"
 
-	"github.com/elastic/beats/libbeat/common"
-	"github.com/elastic/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/common"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
 )
 
 type encoder struct {

@@ -1,8 +1,8 @@
 package publisher
 
 import (
-	"github.com/elastic/beats/libbeat/common/op"
-	"github.com/elastic/beats/libbeat/logp"
+	"github.com/ashilokhvostov/beats/libbeat/common/op"
+	"github.com/ashilokhvostov/beats/libbeat/logp"
 )
 
 type asyncPipeline struct {
