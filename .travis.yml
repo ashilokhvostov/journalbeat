@@ -12,7 +12,7 @@ script:
 - mkdir -p build/
 - cat ci/${DISTRO}.dockerfile.part ci/common.dockerfile.part > Dockerfile
 - docker build -t journalbeat-${DISTRO}-packaging .
-- docker run -v ${PWD}:/go/src/github.com/mheese/journalbeat:rw journalbeat-${DISTRO}-packaging
+- docker run -v ${PWD}:/go/src/github.com/ashilokhvostov/journalbeat:rw journalbeat-${DISTRO}-packaging
 - mv journalbeat journalbeat-${DISTRO}
 deploy:
   skip_cleanup: true
@@ -22,6 +22,6 @@ deploy:
   file:
   - journalbeat-${DISTRO}
   on:
-    repo: mheese/journalbeat
+    repo: ashilokhvostov/journalbeat
     branch: master
     tags: true

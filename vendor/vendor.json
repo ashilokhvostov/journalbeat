@@ -306,7 +306,7 @@
 		},
 		{
 			"checksumSHA1": "h3mZJhO6wBfBa7SsN2hf/b1O+j4=",
-			"path": "github.com/mheese/go-systemd/sdjournal",
+			"path": "github.com/ashilokhvostov/go-systemd/sdjournal",
 			"revision": "d1bcffe39532765d2d083f4924714159e42db2f5",
 			"revisionTime": "2016-01-25T07:15:41Z"
 		},
@@ -353,5 +353,5 @@
 			"revisionTime": "2016-07-15T03:37:55Z"
 		}
 	],
-	"rootPath": "github.com/mheese/journalbeat"
+	"rootPath": "github.com/ashilokhvostov/journalbeat"
 }
